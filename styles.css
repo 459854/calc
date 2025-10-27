@@ -4,6 +4,7 @@ body {
     align-items: center;
     height: 100vh;
     background-color: #f0f0f0;
+    background-image:"IMG_0226.jpeg";
     margin: 0;
     font-family: Arial, sans-serif;
 }
@@ -16,6 +17,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+        background-image:"IMG_0226.jpeg";
 }
 
 #display {
@@ -32,6 +34,7 @@ body {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 10px;
+        background-image:"IMG_0226.jpeg";
 }
 
 button {
@@ -39,6 +42,7 @@ button {
     font-size: 1.5em;
     border: none;
     border-radius: 5px;
+        background-image:"IMG_0226.jpeg";
     background-color: #e0e0e0;
     cursor: pointer;
     transition: background-color 0.3s;
